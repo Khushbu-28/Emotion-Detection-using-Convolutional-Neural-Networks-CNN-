@@ -35,7 +35,7 @@ recommendations, and intelligent content playback, the
 project aims to soothe users' emotions and enhance their
 overall mood and mental health.
 
-3)Data set information (link,few data
+Data set information (link,few data
 samples etc):
 
 https://www.kaggle.com/datasets/ananthu017/emotion-
